@@ -1,0 +1,19 @@
+/* Contact START */
+
+.contact {
+    display: flex;
+
+    justify-content: center;
+
+    width: 100%;
+
+    padding: 1rem 0;
+
+    background-color: rgba(236, 255, 255, 0.9);
+}
+
+.inbound-form-wrapper {
+    width: 75%;
+}
+
+/* Contact END */

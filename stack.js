@@ -1,0 +1,32 @@
+module.exports = [
+    {
+        name: `HTML5`,
+        class: 'icon-alt-1',
+        svg: `html5-brands.svg`
+    },
+    {
+        name: `CSS3`,
+        class: 'icon-alt-2',
+        svg: `css3-alt-brands.svg`
+    },
+    {
+        name: `SASS`,
+        class: 'icon-alt-1',
+        svg: `sass-brands.svg`
+    },
+    {
+        name: `JS`,
+        class: 'icon-alt-2',
+        svg: `js-square-brands.svg`
+    },
+    {
+        name: `NODEJS`,
+        class: 'icon-alt-1',
+        svg: `node-js-brands.svg`
+    },
+    {
+        name: `ADOBE`,
+        class: 'icon-alt-2',
+        svg: `adobe-brands.svg`
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "in-class",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^12.16.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsharifz/Node-Assignment-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jsharifz/Node-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/Jsharifz/Node-Assignment-1#readme"
+}
