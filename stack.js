@@ -25,8 +25,13 @@ module.exports = [
         svg: `node-js-brands.svg`
     },
     {
-        name: `ADOBE`,
+        name: `NPM`,
         class: 'icon-alt-2',
+        svg: `npm-brands.svg`
+    },
+    {
+        name: `ADOBE`,
+        class: 'icon-alt-1',
         svg: `adobe-brands.svg`
     }
 ]
