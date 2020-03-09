@@ -1,11 +1,5 @@
 module.exports = [
     {
-        title: `Working With Git`,
-        descrption: 'Group project utilizing Git version control to manage a project to generate a mock site.',
-        deployment: 'https://jsharifz.github.io/projects/project%201/index.html',
-        repo: `https://github.com/Jsharifz/wbdv-assignments-public/tree/master/Assignment%201`
-    },
-    {
         title: `JS App Using an API`,
         descrption: 'Star-Wars API fetch and event listener menu bar utilizing JavaScript.',
         deployment: 'https://jsharifz.github.io/projects/project%202/index.html',
