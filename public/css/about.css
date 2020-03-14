@@ -31,12 +31,3 @@
   height: 30vw;
   min-height: 300px;
 }
-
-@media screen and (max-width: 479px) {
-  /* start of phone styles */
-
-  .about p {
-    text-align: justify;
-  }
-}
-/* About END */
