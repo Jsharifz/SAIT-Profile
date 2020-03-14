@@ -12,9 +12,9 @@ module.exports = [
         repo: `https://github.com/Vaddeil/sass-group-assignment`
     },
     {
-        title: `Gallery Custom Module`,
-        descrption: 'Dynamically generated pages/gallery with express/ejs; image endpoints are the id of the image.',
-        deployment: 'https://javad-node-assignment-2.herokuapp.com/',
-        repo: `https://github.com/Jsharifz/Node-Assignment-2`
+        title: `Gallery MongoDB Custom Gallery`,
+        descrption: 'Dynamically generated pages using express/ejs with data retrieved from MongoDB; image endpoints are the id of the image.',
+        deployment: 'https://javad-node-assignment-3.herokuapp.com/',
+        repo: `https://github.com/Jsharifz/Node-Assignment-3`
     },
 ]
