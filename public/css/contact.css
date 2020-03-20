@@ -1,5 +1,9 @@
 /* Contact START */
 
+* {
+    font-family: 'Spartan';
+}
+
 .contact {
     display: flex;
 
@@ -12,8 +16,31 @@
     background-color: rgba(236, 255, 255, 0.9);
 }
 
-.inbound-form-wrapper {
-    width: 75%;
+form {
+    display: flex;
+    flex-direction: column;
+
+    width: 50%;
+}
+
+form * {
+    border-radius: 0.5rem;
+}
+
+#name, #email, #submit, #subject {
+    padding: 0.5rem; 
+}
+
+#submit {
+    margin: 0.5rem 0;
+}
+
+label {
+    padding-top: 0.5rem;
+}
+
+input, textarea {
+    padding: 0.5rem;
 }
 
 /* Contact END */
