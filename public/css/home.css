@@ -83,7 +83,6 @@
 #hero h1 {
   text-shadow: -1px 0 red, 0 1px green, 1px 0 blue, 0 -1px yellow;
 }
-
 /* Hero END */
 
 /* Stack START */
@@ -207,7 +206,7 @@
 
   justify-content: center;
   align-items: center;
-  text-align: center;
+  text-align: justify;
 
   margin: 0.5rem;
 }
