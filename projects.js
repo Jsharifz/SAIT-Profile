@@ -22,5 +22,11 @@ module.exports = [
         descrption: 'Using the YAML data and markdown documents, a static website was generated which includes a blog post page and collection. *** This website includes satire and crude or dark humor which may or may not be offensive; enter website prepared to encounter crude or crude humor. ***',
         deployment: 'https://jokeathon.netlify.com/',
         repo: `https://github.com/Jsharifz/Jekyll-assn-1`
+    },
+    {
+        title: `Buluva LED Watch`,
+        descrption: 'Bulova Archive Series Digital LED Computron recreated (in Gold and Steel) using CSS and JavaScript for the clock',
+        deployment: 'https://jsharifz.github.io/projects/watch/bulova-gold.html',
+        repo: `https://github.com/Jsharifz/jsharifz.github.io/tree/master/projects/watch`
     }
 ]
