@@ -19,7 +19,7 @@ module.exports = [
     },
     {
         title: `Jokathon: A Jekyll Website`,
-        descrption: 'Using the YAML data and markdown documents, a static website was generated which includes a blog post page and collection. *** This website includes satire and crude or dark humor which may or may not be offensive; enter website prepared to encounter crude or crude humor. ***',
+        descrption: 'Using the YAML data and markdown documents, a static website was generated which includes a blog post page and collection. *** This website includes satire and crude or dark humor. ***',
         deployment: 'https://jokeathon.netlify.com/',
         repo: `https://github.com/Jsharifz/Jekyll-assn-1`
     },
