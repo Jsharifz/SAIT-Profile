@@ -1,7 +1,7 @@
 module.exports = [
     {
         title: `JS App Using an API`,
-        descrption: 'Star-Wars API fetch and event listener menu bar utilizing JavaScript.',
+        descrption: 'Star-Wars API fetch and event listener menu bar utilizing JavaScript. API currently unsopported.',
         deployment: 'https://jsharifz.github.io/projects/project%202/index.html',
         repo: `https://github.com/Jsharifz/JavaScript-Assignments/tree/master/js-assignment3`
     },
