@@ -39,7 +39,7 @@ module.exports = [
     {
         title: `Pi Estimator`,
         descrption:
-            "Using random numbers and basic geometry, the value of Pi is estimated with more iterations.",
+            "Using random numbers and basic geometry, the value of Pi is estimated with increasing iterations.",
         deployment: "https://jsharifz.github.io/projects/pi/index.html",
         repo: `https://github.com/Jsharifz/Pi-Estimator`,
     },
