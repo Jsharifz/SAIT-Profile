@@ -15,6 +15,13 @@ module.exports = [
         repo: `https://github.com/Vaddeil/sass-group-assignment`,
     },
     {
+        title: `APCSE Website Redesign`,
+        descrption:
+            "http://apcse.com/ (2016) redone with the intent to fix typos, adjust post settings, keep it responsive, and overall simplify/modernize the look.",
+        deployment: "https://javad.bravamedia.ca/",
+        repo: ``,
+    },
+    {
         title: `Gallery MongoDB Custom Gallery`,
         descrption:
             "Dynamically generated pages using express/ejs with data retrieved from MongoDB; image endpoints are the id of the image.",
