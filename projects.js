@@ -15,7 +15,7 @@ module.exports = [
         repo: `https://github.com/Vaddeil/sass-group-assignment`,
     },
     {
-        title: `APCSE Website Redesign`,
+        title: `APCSE Website Redesign (WordPress)`,
         descrption:
             "http://apcse.com/ (2016) redone with the intent to fix typos, adjust post settings, keep it responsive, and overall simplify/modernize the look.",
         deployment: "https://javad.bravamedia.ca/",
