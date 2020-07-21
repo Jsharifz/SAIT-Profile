@@ -17,9 +17,9 @@ module.exports = [
     {
         title: `APCSE Website Redesign (WordPress)`,
         descrption:
-            "http://apcse.com/ (2016) redone with the intent to fix typos, adjust post settings, keep it responsive, and overall simplify/modernize the look.",
-        deployment: "https://javad.bravamedia.ca/",
-        repo: ``,
+            "Website for APCSE (Advanced Petroleum Consulting Services Corporation) redone with the intent to fix typos, adjust post settings, keep it responsive, and overall simplify/modernize the look.",
+        deployment: "https://apcse.com/",
+        repo: `https://apcse.com/`,
     },
     {
         title: `Gallery MongoDB Custom Gallery`,
