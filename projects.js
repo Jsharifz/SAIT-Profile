@@ -4,7 +4,7 @@ module.exports = [
         descrption:
             "Star-Wars API fetch and event listener menu bar utilizing JavaScript. API currently unsopported.",
         deployment:
-            "https://jsharifz.github.io/projects/project%202/index.html",
+            "https://jsharifz.github.io/JavaScript-Assignments/js-assignment3/index.html",
         repo: `https://github.com/Jsharifz/JavaScript-Assignments/tree/master/js-assignment3`,
     },
     {
@@ -39,15 +39,21 @@ module.exports = [
         title: `Buluva LED Watch`,
         descrption:
             "Bulova Archive Series Digital LED Computron recreated (in Gold, Steel, and Black) using CSS and JavaScript for the clock. The page is best experienced in the FireFox browser.",
-        deployment:
-            "https://jsharifz.github.io/projects/watch/bulova-gold.html",
-        repo: `https://github.com/Jsharifz/jsharifz.github.io/tree/master/projects/watch`,
+        deployment: "https://jsharifz.github.io/Buluva-Watch/",
+        repo: `https://github.com/Jsharifz/Buluva-Watch`,
     },
     {
         title: `Pi Estimator`,
         descrption:
             "Using random numbers and basic geometry, the value of Pi is estimated with increasing iterations.",
-        deployment: "https://jsharifz.github.io/projects/pi/index.html",
+        deployment: "https://jsharifz.github.io/Pi-Estimator/",
         repo: `https://github.com/Jsharifz/Pi-Estimator`,
+    },
+    {
+        title: `Pi Estimator With Vue`,
+        descrption:
+            "This project is very similar to the other Pi estimator project. This is a demonstration of the Vue framework to produce a dynamic and responsive app.",
+        deployment: "https://jsharifz.github.io/Pi-Estimator-Vue/",
+        repo: `https://github.com/Jsharifz/Pi-Estimator-Vue`,
     },
 ];
