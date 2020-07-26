@@ -39,8 +39,8 @@ module.exports = [
         title: `Bulova LED Watch`,
         descrption:
             "Bulova Archive Series Digital LED Computron recreated (in Gold, Steel, and Black) using CSS and JavaScript for the clock. The page is best experienced in the FireFox browser.",
-        deployment: "https://jsharifz.github.io/Buluva-Watch/",
-        repo: `https://github.com/Jsharifz/Buluva-Watch`,
+        deployment: "https://jsharifz.github.io/Bulova-Watch/",
+        repo: `https://github.com/Jsharifz/Bulova-Watch`,
     },
     {
         title: `Pi Estimator`,
