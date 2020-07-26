@@ -36,7 +36,7 @@ module.exports = [
         repo: `https://github.com/Jsharifz/Jekyll-assn-1`,
     },
     {
-        title: `Buluva LED Watch`,
+        title: `Bulova LED Watch`,
         descrption:
             "Bulova Archive Series Digital LED Computron recreated (in Gold, Steel, and Black) using CSS and JavaScript for the clock. The page is best experienced in the FireFox browser.",
         deployment: "https://jsharifz.github.io/Buluva-Watch/",
