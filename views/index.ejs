@@ -1,69 +1,21 @@
 <%- include('partials/header') %>
 
 <!-- Hero START -->
-<section id="hero" class="content">
+<section id="home-content" class="main-head">
   <div class="content-head">
-    <h1>Javad Sharifzadeh-Najafi</h1>
-    <h2>Web Developer & Designer</h2>
+    <h1>Legacy Profile</h1>
   </div>
 
-  <div class="content-body"></div>
-
-  <div class="content-head">
-    <h1>Customizing Experience</h1>
-    <h2>- Since 2020 -</h2>
+  <div class="main">
+    <p>
+      If you are not redirected in five seconds, please refer to the following
+      link for the main profile. Thank you for visiting.
+    </p>
+    <a href="https://jsharifz.herokuapp.com/"
+      >https://jsharifz.herokuapp.com/</a
+    >
   </div>
-
-  <div class="content-body"></div>
 </section>
 <!-- Hero END -->
 
-<!-- Competency START -->
-<section id="home-content" class="content">
-  <div class="content-head">
-    <h1>Competency</h1>
-  </div>
-
-  <div class="stack">
-    <% for (comp of stack) { <!-- this passes the objects in order from module stack -->
-      %>
-    <div class="<%= comp.class %>"">
-      <img src=" \assets\<%= comp.svg %>" alt="">
-    </div>
-    <%
-  } %>
-    <!-- script closure -->
-  </div>
-
-</section>
-<!-- Competency END -->
-
-<!-- Projects START -->
-<section id=" home-content" class="content">
-  <div class="content-head">
-    <h1>Projects</h1>
-  </div>
-
-  <div class="projects">
-
-    <% for (proj of projects) { <!-- this passes the objects in order from module projectg -->
-      %>
-
-    <div class="project">
-      <p><strong><%= proj.title %></strong></p>
-      <p>
-        <%= proj.descrption %>
-      </p>
-      <a href="<%= proj.deployment %>" target="_blank">Deployment</a>
-      <a href="<%= proj.repo %>" target="_blank">Repository</a>
-    </div>
-
-    <%
-  } %>
-    <!-- script closure -->
-
-  </div>
-</section>
 <!-- Projects END -->
-
-<%- include('partials/footer') %>

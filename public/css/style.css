@@ -17,10 +17,6 @@ a {
   font-family: 'Spartan';
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
 p {
   color: black;
   font-family: 'Spartan';
@@ -319,6 +315,23 @@ nav .nav-pointer {
 
 .social a:hover {
   scale: 1;
+  animation: bounce 3s infinite linear;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0px);
+  }
+  33% {
+    transform: translateY(5px);
+  }
+
+  66% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
 }
 
 /* Social END */
